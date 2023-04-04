@@ -4,5 +4,5 @@ public Id insertStudent(String name, String email) {
     student.Name = 'John Doe';
     insert student;
     Id sutdentId = student.Id;
-    return insertStudent;
+    return sutdentId;
 }
